@@ -23,6 +23,9 @@
     "clear F7",
     "clear F8",
     "clear D1",
-    "clear E1"
+    "clear E1",
+    "flag B1",
+    "clear A1",
+    "clear C1"
   ]
 }
